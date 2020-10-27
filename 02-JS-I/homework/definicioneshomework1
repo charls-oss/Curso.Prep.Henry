@@ -1,0 +1,10 @@
+
+Variables: Es la manera en el cual se almacenan valores que pueden cambiar en el tiempo.
+
+Strings: Hace referencia a una cadena de texto o bloque de texto que esta entre comillas.
+
+Funciones: Son el conjunto de acciones que se ejecutan para realizar una tarea, por lo que return hace énfasis en el valor que devuelve la función. Los argumentos son la variables que necesitan las funciones.
+
+Declaraciones: Son intrucciones que estan separadas por punto y coma. If es el elemento que sirve para realizar operaciones con relacion a una funciòn.
+
+Valores Booleanos: Hace referencia al código binario donde existen dos opciones verdadero(true) o falso (false)
