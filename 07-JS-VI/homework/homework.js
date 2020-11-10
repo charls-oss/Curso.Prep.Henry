@@ -33,9 +33,10 @@ function map(array, cb) {
   for (let i = 0; i < array.length; i++) {
     let resultado = cb(array[i]);
   nuevoArray.push(resultado);
-  }
-  return nuevoArray;
 }
+return nuevoArray; 
+}
+
 
 
 
